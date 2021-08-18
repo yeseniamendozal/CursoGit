@@ -1,15 +1,18 @@
 .titulo{
+  background-color: #457b9d;
   color: #f72585;
   text-align: center;
 }
 
 .marco{
+  background-color: #457b9d;
   width: 100%;
   height: 200px;
   border: 1px solid #f72585;
 }
 
 .centrar{
+  background-color: #457b9d;
   text-align: center;
 }
 
