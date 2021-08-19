@@ -1,6 +1,7 @@
 .titulo{
   background-color: #457b9d;
   color: #f72585;
+  color: white;
   text-align: center;
 }
 
@@ -8,12 +9,14 @@
   background-color: #457b9d;
   width: 100%;
   height: 200px;
+  color: white;
   border: 1px solid #f72585;
 }
 
 .centrar{
   background-color: #457b9d;
   text-align: center;
+  color: white;
 }
 
 .boton{
